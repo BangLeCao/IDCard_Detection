@@ -1,3 +1,3 @@
 # Extract information from ID card Vietnamese
 
-Faster - RCNN is implemented with pytorch
+Faster - RCNN (with backbone Resnet50-FPN) is implemented with pytorch
